@@ -1,0 +1,35 @@
+[
+  {
+    "id": 1,
+    "used": false,
+    "text": "Fruta que por fuera es verde",
+    "answers": [
+      {"id": 1, "text": "Pera", "points": 38},
+      {"id": 2, "text": "Limón", "points": 14},
+      {"id": 3, "text": "Sandia", "points": 22},
+      {"id": 4, "text": "Manzana", "points": 26}
+    ]
+  },
+  {
+    "id": 2,
+    "used": false,
+    "text": "Menciona algo especifico que distingue a un turista",
+    "answers": [
+      {"id": 1, "text": "Forma de vestir", "points": 20},
+      {"id": 2, "text": "El fisico", "points": 18},
+      {"id": 3, "text": "El idioma", "points": 15},
+      {"id": 4, "text": "Su acento", "points": 17}
+    ]
+  },
+  {
+    "id": 3,
+    "used": false,
+    "text": "Menciona algo opuesto a la libertad",
+    "answers": [
+      {"id": 1, "text": "Esclavitud", "points": 49},
+      {"id": 2, "text": "Encierro", "points": 31},
+      {"id": 3, "text": "Prisión", "points": 11},
+      {"id": 4, "text": "Opresion", "points": 9}
+    ]
+  }
+]

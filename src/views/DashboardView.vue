@@ -23,7 +23,9 @@ provide("teamTwo", teamTwo);*/
     <div class="dashboard">
 <!--        <SettingsView/>-->
         <TeamDashboard v-if="teamOne" :team="teamOne"/>
-        <TheQuestion />
+        <div style="min-width: 60vh">
+            <TheQuestion />
+        </div>
         <TeamDashboard v-if="teamTwo" :team="teamTwo"/>
     </div>
 </template>

@@ -4,10 +4,30 @@
     "used": false,
     "text": "Fruta que por fuera es verde",
     "answers": [
-      {"id": 1, "text": "Pera", "points": 38},
-      {"id": 2, "text": "Limón", "points": 14},
-      {"id": 3, "text": "Sandia", "points": 22},
-      {"id": 4, "text": "Manzana", "points": 26}
+      {
+        "id": 1,
+        "text": "Pera",
+        "points": 38,
+        "visible": false
+      },
+      {
+        "id": 2,
+        "text": "Manzana",
+        "points": 26,
+        "visible": false
+      },
+      {
+        "id": 3,
+        "text": "Sandia",
+        "points": 22,
+        "visible": false
+      },
+      {
+        "id": 4,
+        "text": "Limón",
+        "points": 14,
+        "visible": false
+      }
     ]
   },
   {
@@ -15,10 +35,30 @@
     "used": false,
     "text": "Menciona algo especifico que distingue a un turista",
     "answers": [
-      {"id": 1, "text": "Forma de vestir", "points": 20},
-      {"id": 2, "text": "El fisico", "points": 18},
-      {"id": 3, "text": "El idioma", "points": 15},
-      {"id": 4, "text": "Su acento", "points": 17}
+      {
+        "id": 1,
+        "text": "Forma de vestir",
+        "points": 20,
+        "visible": false
+      },
+      {
+        "id": 2,
+        "text": "El fisico",
+        "points": 18,
+        "visible": false
+      },
+      {
+        "id": 3,
+        "text": "Su acento",
+        "points": 17,
+        "visible": false
+      },
+      {
+        "id": 4,
+        "text": "El idioma",
+        "points": 15,
+        "visible": false
+      }
     ]
   },
   {
@@ -26,10 +66,1710 @@
     "used": false,
     "text": "Menciona algo opuesto a la libertad",
     "answers": [
-      {"id": 1, "text": "Esclavitud", "points": 49},
-      {"id": 2, "text": "Encierro", "points": 31},
-      {"id": 3, "text": "Prisión", "points": 11},
-      {"id": 4, "text": "Opresion", "points": 9}
+      {
+        "id": 1,
+        "text": "Esclavitud",
+        "points": 49,
+        "visible": false
+      },
+      {
+        "id": 2,
+        "text": "Encierro",
+        "points": 31,
+        "visible": false
+      },
+      {
+        "id": 3,
+        "text": "Prisión",
+        "points": 11,
+        "visible": false
+      },
+      {
+        "id": 4,
+        "text": "Opresion",
+        "points": 9,
+        "visible": false
+      }
+    ]
+  },
+  {
+    "id": 4,
+    "used": false,
+    "text": "Que se le puede hacer al piso?",
+    "answers": [
+      {
+        "id": 1,
+        "text": "Pulirlo",
+        "points": 40,
+        "visible": false
+      },
+      {
+        "id": 1,
+        "text": "Trapearlo",
+        "points": 37,
+        "visible": false
+      },
+      {
+        "id": 1,
+        "text": "Encerarlo",
+        "points": 15,
+        "visible": false
+      },
+      {
+        "id": 1,
+        "text": "Barrerlo",
+        "points": 8,
+        "visible": false
+      }
+    ]
+  },
+  {
+    "id": 5,
+    "text": ", Algo que prendes y apagas todos los días",
+    "used": false,
+    "answers": [
+      {
+        "id": 1,
+        "text": "Luz",
+        "points": 38,
+        "visible": false
+      },
+      {
+        "id": 2,
+        "text": "Television",
+        "points": 26,
+        "visible": false
+      },
+      {
+        "id": 3,
+        "text": "Computadora",
+        "points": 15,
+        "visible": false
+      },
+      {
+        "id": 4,
+        "text": "El radio/Estereo",
+        "points": 11,
+        "visible": false
+      }
+    ]
+  },
+  {
+    "id": 6,
+    "text": " Además del pollo, menciona otra ave que se coma.",
+    "used": false,
+    "answers": [
+      {
+        "id": 1,
+        "text": "Guajolote/Pavo",
+        "points": 48,
+        "visible": false
+      },
+      {
+        "id": 2,
+        "text": "Pato ",
+        "points": 23,
+        "visible": false
+      },
+      {
+        "id": 3,
+        "text": "Codorniz",
+        "points": 14,
+        "visible": false
+      },
+      {
+        "id": 4,
+        "text": "Gallina",
+        "points": 8,
+        "visible": false
+      }
+    ]
+  },
+  {
+    "id": 7,
+    "used": false,
+    "text": "Problema que te puede pasar cuando estas en el WC/Baño",
+    "answers": [
+      {
+        "id": 1,
+        "text": "Se acabo el papel",
+        "points": 41,
+        "visible": false
+      },
+      {
+        "id": 2,
+        "text": "Estar estreñido",
+        "points": 27,
+        "visible": false
+      },
+      {
+        "id": 3,
+        "text": "No hay agua",
+        "points": 13,
+        "visible": false
+      },
+      {
+        "id": 4,
+        "text": "Esta tapado el excusado",
+        "points": 10,
+        "visible": false
+      }
+    ]
+  },
+  {
+    "id": 8,
+    "used": false,
+    "text": ", Regalo de bodas mas comun de recien casados",
+    "answers": [
+      {
+        "id": 1,
+        "text": "Vajilla",
+        "points": 34,
+        "visible": false
+      },
+      {
+        "id": 2,
+        "text": "Licuadora",
+        "points": 29,
+        "visible": false
+      },
+      {
+        "id": 3,
+        "text": "Toallas",
+        "points": 21,
+        "visible": false
+      },
+      {
+        "id": 4,
+        "text": "Plancha",
+        "points": 15,
+        "visible": false
+      }
+    ]
+  },
+  {
+    "id": 9,
+    "used": false,
+    "text": "Antojitos mexicanos más populares",
+    "answers": [
+      {
+        "id": 1,
+        "text": "Tacos",
+        "points": 41,
+        "visible": false
+      },
+      {
+        "id": 2,
+        "text": "Pozole",
+        "points": 19,
+        "visible": false
+      },
+      {
+        "id": 3,
+        "text": "Enchiladas",
+        "points": 18,
+        "visible": false
+      },
+      {
+        "id": 4,
+        "text": "Quezadillas",
+        "points": 9,
+        "visible": false
+      }
+    ]
+  },
+  {
+    "id": 10,
+    "used": false,
+    "text": "Parte del cuerpo en donde los dolores son mas frecuentes",
+    "answers": [
+      {
+        "id": 1,
+        "text": "Cabeza",
+        "points": 45,
+        "visible": false
+      },
+      {
+        "id": 2,
+        "text": "Estomago/Vientre",
+        "points": 29,
+        "visible": false
+      },
+      {
+        "id": 3,
+        "text": "Espalda",
+        "points": 17,
+        "visible": false
+      },
+      {
+        "id": 4,
+        "text": "Piernas",
+        "points": 9,
+        "visible": false
+      }
+    ]
+  },
+  {
+    "id": 11,
+    "used": false,
+    "text": "Propositos de año nuevo",
+    "answers": [
+      {
+        "id": 1,
+        "text": "Hacer dieta",
+        "points": 33,
+        "visible": false
+      },
+      {
+        "id": 2,
+        "text": "Hacer ejercicio",
+        "points": 27,
+        "visible": false
+      },
+      {
+        "id": 3,
+        "text": "Ahorrar",
+        "points": 17,
+        "visible": false
+      },
+      {
+        "id": 4,
+        "text": "Comprar algún articulo",
+        "points": 9,
+        "visible": false
+      }
+    ]
+  },
+  {
+    "id": 12,
+    "used": false,
+    "text": ", Platillo típico para la cena de navidad",
+    "answers": [
+      {
+        "id": 1,
+        "text": "Pavo",
+        "points": 39,
+        "visible": false
+      },
+      {
+        "id": 2,
+        "text": "Bacalao",
+        "points": 32,
+        "visible": false
+      },
+      {
+        "id": 3,
+        "text": "Romeritos",
+        "points": 12,
+        "visible": false
+      },
+      {
+        "id": 4,
+        "text": "Lomo/Pierna",
+        "points": 11,
+        "visible": false
+      }
+    ]
+  },
+  {
+    "id": 13,
+    "used": false,
+    "text": "¿Cuantos quilates puede tener una cadena de oro?",
+    "answers": [
+      {
+        "id": 1,
+        "text": "14 kilates",
+        "points": 45,
+        "visible": false
+      },
+      {
+        "id": 2,
+        "text": "10 kilates",
+        "points": 18,
+        "visible": false
+      },
+      {
+        "id": 3,
+        "text": "24 kilates",
+        "points": 13,
+        "visible": false
+      },
+      {
+        "id": 4,
+        "text": "18 kilates",
+        "points": 7,
+        "visible": false
+      }
+    ]
+  },
+  {
+    "id": 14,
+    "used": false,
+    "text": "Especifica una razón por la que la gente se detiene en el acotaimiento de la carretera",
+    "answers": [
+      {
+        "id": 1,
+        "text": "Descompostura",
+        "points": 33,
+        "visible": false
+      },
+      {
+        "id": 2,
+        "text": "Descansar",
+        "points": 12,
+        "visible": false
+      },
+      {
+        "id": 3,
+        "text": "accidente",
+        "points": 11,
+        "visible": false
+      },
+      {
+        "id": 4,
+        "text": "Para ir al baño",
+        "points": 9,
+        "visible": false
+      }
+    ]
+  },
+  {
+    "id": 15,
+    "used": false,
+    "text": "Menciona una forma popular de decir niño",
+    "answers": [
+      {
+        "id": 1,
+        "text": "chamaco",
+        "points": 27,
+        "visible": false
+      },
+      {
+        "id": 2,
+        "text": "bebe",
+        "points": 15,
+        "visible": false
+      },
+      {
+        "id": 3,
+        "text": "escuincle",
+        "points": 15,
+        "visible": false
+      },
+      {
+        "id": 4,
+        "text": "chiquillo",
+        "points": 8,
+        "visible": false
+      }
+    ]
+  },
+  {
+    "id": 16,
+    "used": false,
+    "text": "Dinos un alimento que se frie",
+    "answers": [
+      {
+        "id": 1,
+        "text": "Pescado",
+        "points": 36,
+        "visible": false
+      },
+      {
+        "id": 2,
+        "text": "pollo",
+        "points": 17,
+        "visible": false
+      },
+      {
+        "id": 3,
+        "text": "carne",
+        "points": 17,
+        "visible": false
+      },
+      {
+        "id": 4,
+        "text": "papas",
+        "points": 13,
+        "visible": false
+      }
+    ]
+  },
+  {
+    "id": 17,
+    "used": false,
+    "text": "Dinos algo que haya en los drenajes de las ciudades",
+    "answers": [
+      {
+        "id": 1,
+        "text": "Ratas",
+        "points": 33,
+        "visible": false
+      },
+      {
+        "id": 2,
+        "text": "basura",
+        "points": 22,
+        "visible": false
+      },
+      {
+        "id": 3,
+        "text": "excremento",
+        "points": 10,
+        "visible": false
+      },
+      {
+        "id": 4,
+        "text": "agua",
+        "points": 8,
+        "visible": false
+      }
+    ]
+  },
+  {
+    "id": 18,
+    "used": false,
+    "text": "Menciona una forma popular de decir dinero",
+    "answers": [
+      {
+        "id": 1,
+        "text": "Lana",
+        "points": 32,
+        "visible": false
+      },
+      {
+        "id": 2,
+        "text": "money",
+        "points": 18,
+        "visible": false
+      },
+      {
+        "id": 3,
+        "text": "billete",
+        "points": 8,
+        "visible": false
+      },
+      {
+        "id": 4,
+        "text": "feria",
+        "points": 5,
+        "visible": false
+      }
+    ]
+  },
+  {
+    "id": 19,
+    "used": false,
+    "text": "Especifica una fruta que tenga semillas",
+    "answers": [
+      {
+        "id": 1,
+        "text": "naranja",
+        "points": 22,
+        "visible": false
+      },
+      {
+        "id": 2,
+        "text": "manzana",
+        "points": 18,
+        "visible": false
+      },
+      {
+        "id": 3,
+        "text": "sandia",
+        "points": 16,
+        "visible": false
+      },
+      {
+        "id": 4,
+        "text": "limon",
+        "points": 15,
+        "visible": false
+      }
+    ]
+  },
+  {
+    "id": 20,
+    "used": false,
+    "text": "¿Cómo identificarías al villano de la película antes de que haga algo malo?",
+    "answers": [
+      {
+        "id": 1,
+        "text": "Actitud",
+        "points": 30,
+        "visible": false
+      },
+      {
+        "id": 2,
+        "text": "Cara",
+        "points": 27,
+        "visible": false
+      },
+      {
+        "id": 3,
+        "text": "Ropa",
+        "points": 19,
+        "visible": false
+      },
+      {
+        "id": 4,
+        "text": "Mirada",
+        "points": 14,
+        "visible": false
+      },
+      {
+        "id": 5,
+        "text": "Apariencia",
+        "points": 10,
+        "visible": false
+      }
+    ]
+  },
+  {
+    "id": 21,
+    "used": false,
+    "text": "Razón por la que te podrías pasar una luz roja",
+    "answers": [
+      {
+        "id": 1,
+        "text": "Emergencia",
+        "points": 33,
+        "visible": false
+      },
+      {
+        "id": 2,
+        "text": "Distracción",
+        "points": 30,
+        "visible": false
+      },
+      {
+        "id": 3,
+        "text": "Hablar por teléfono",
+        "points": 18,
+        "visible": false
+      },
+      {
+        "id": 4,
+        "text": "Descuido",
+        "points": 10,
+        "visible": false
+      },
+      {
+        "id": 5,
+        "text": "Mensajeando",
+        "points": 9,
+        "visible": false
+      }
+    ]
+  },
+  {
+    "id": 22,
+    "used": false,
+    "text": "Algo que carazteriza a un militar",
+    "answers": [
+      {
+        "id": 1,
+        "text": "Uniforme",
+        "points": 58,
+        "visible": false
+      },
+      {
+        "id": 2,
+        "text": "Arma",
+        "points": 19,
+        "visible": false
+      },
+      {
+        "id": 3,
+        "text": "Botas",
+        "points": 14,
+        "visible": false
+      },
+      {
+        "id": 4,
+        "text": "Traje",
+        "points": 5,
+        "visible": false
+      },
+      {
+        "id": 5,
+        "text": "Corte de pelo",
+        "points": 4,
+        "visible": false
+      }
+    ]
+  },
+  {
+    "id": 23,
+    "used": false,
+    "text": "Prenda de vestir que puedes usar cuando hace frío o calor",
+    "answers": [
+      {
+        "id": 1,
+        "text": "Pantalón",
+        "points": 42,
+        "visible": false
+      },
+      {
+        "id": 2,
+        "text": "Sueter",
+        "points": 26,
+        "visible": false
+      },
+      {
+        "id": 3,
+        "text": "Ropa interior",
+        "points": 13,
+        "visible": false
+      },
+      {
+        "id": 4,
+        "text": "Camisa",
+        "points": 12,
+        "visible": false
+      },
+      {
+        "id": 5,
+        "text": "Playera",
+        "points": 7,
+        "visible": false
+      }
+    ]
+  },
+  {
+    "id": 24,
+    "used": false,
+    "text": "Además de huevos otro ingrediente para hacer un pastel",
+    "answers": [
+      {
+        "id": 1,
+        "text": "Harina",
+        "points": 48,
+        "visible": false
+      },
+      {
+        "id": 2,
+        "text": "Leche",
+        "points": 39,
+        "visible": false
+      },
+      {
+        "id": 3,
+        "text": "Azúcar",
+        "points": 8,
+        "visible": false
+      },
+      {
+        "id": 4,
+        "text": "Fruta",
+        "points": 3,
+        "visible": false
+      },
+      {
+        "id": 5,
+        "text": "Mantequilla",
+        "points": 2,
+        "visible": false
+      }
+    ]
+  },
+  {
+    "id": 25,
+    "used": false,
+    "text": "Si te quedas encerrado en un elevador ¿Qué harías?",
+    "answers": [
+      {
+        "id": 1,
+        "text": "Gritar",
+        "points": 40,
+        "visible": false
+      },
+      {
+        "id": 2,
+        "text": "Presionar la alarma",
+        "points": 20,
+        "visible": false
+      },
+      {
+        "id": 3,
+        "text": "Esperar",
+        "points": 19,
+        "visible": false
+      },
+      {
+        "id": 4,
+        "text": "Llamar",
+        "points": 13,
+        "visible": false
+      },
+      {
+        "id": 5,
+        "text": "Mantener la calma",
+        "points": 8,
+        "visible": false
+      }
+    ]
+  },
+  {
+    "id": 26,
+    "used": false,
+    "text": "¿Cuántas veces al día lavas los trastes?",
+    "answers": [
+      {
+        "id": 1,
+        "text": "Tres",
+        "points": 48,
+        "visible": false
+      },
+      {
+        "id": 2,
+        "text": "Dos",
+        "points": 24,
+        "visible": false
+      },
+      {
+        "id": 3,
+        "text": "Una",
+        "points": 18,
+        "visible": false
+      },
+      {
+        "id": 4,
+        "text": "Cuatro",
+        "points": 6,
+        "visible": false
+      },
+      {
+        "id": 5,
+        "text": "Ninguna",
+        "points": 4,
+        "visible": false
+      }
+    ]
+  },
+  {
+    "id": 27,
+    "used": false,
+    "text": "Formas de demostrar que quieres a alguien",
+    "answers": [
+      {
+        "id": 1,
+        "text": "Besos",
+        "points": 30,
+        "visible": false
+      },
+      {
+        "id": 2,
+        "text": "Abrazos",
+        "points": 28,
+        "visible": false
+      },
+      {
+        "id": 3,
+        "text": "Regalos",
+        "points": 19,
+        "visible": false
+      },
+      {
+        "id": 4,
+        "text": "Flores",
+        "points": 16,
+        "visible": false
+      },
+      {
+        "id": 5,
+        "text": "Cariño",
+        "points": 7,
+        "visible": false
+      }
+    ]
+  },
+  {
+    "id": 28,
+    "used": false,
+    "text": "Menciona algo que te puede hacer sonreir",
+    "answers": [
+      {
+        "id": 1,
+        "text": "Chiste",
+        "points": 52,
+        "visible": false
+      },
+      {
+        "id": 2,
+        "text": "Familia",
+        "points": 19,
+        "visible": false
+      },
+      {
+        "id": 3,
+        "text": "Broma",
+        "points": 16,
+        "visible": false
+      },
+      {
+        "id": 4,
+        "text": "Bebé",
+        "points": 9,
+        "visible": false
+      },
+      {
+        "id": 5,
+        "text": "Caerse",
+        "points": 4,
+        "visible": false
+      }
+    ]
+  },
+  {
+    "id": 29,
+    "used": false,
+    "text": "Cuando eras niño, ¿A que hora te acostaban tus papás?",
+    "answers": [
+      {
+        "id": 1,
+        "text": "Ocho",
+        "points": 46,
+        "visible": false
+      },
+      {
+        "id": 2,
+        "text": "Nueve",
+        "points": 30,
+        "visible": false
+      },
+      {
+        "id": 3,
+        "text": "Diez",
+        "points": 11,
+        "visible": false
+      },
+      {
+        "id": 4,
+        "text": "Siete",
+        "points": 9,
+        "visible": false
+      },
+      {
+        "id": 5,
+        "text": "Seis",
+        "points": 4,
+        "visible": false
+      }
+    ]
+  },
+  {
+    "id": 30,
+    "used": false,
+    "text": "¿Cuantos dientes tienes?",
+    "answers": [
+      {
+        "id": 1,
+        "text": "Veinte",
+        "points": 28,
+        "visible": false
+      },
+      {
+        "id": 2,
+        "text": "Treinta y dos",
+        "points": 22,
+        "visible": false
+      },
+      {
+        "id": 3,
+        "text": "Veinticinco",
+        "points": 18,
+        "visible": false
+      },
+      {
+        "id": 4,
+        "text": "Veintiocho",
+        "points": 17,
+        "visible": false
+      },
+      {
+        "id": 5,
+        "text": "Treinta",
+        "points": 15,
+        "visible": false
+      }
+    ]
+  },
+  {
+    "id": 31,
+    "used": false,
+    "text": "Color más común de chicle o goma de mascar",
+    "answers": [
+      {
+        "id": 1,
+        "text": "Blanco",
+        "points": 29,
+        "visible": false
+      },
+      {
+        "id": 2,
+        "text": "Rosa",
+        "points": 26,
+        "visible": false
+      },
+      {
+        "id": 3,
+        "text": "Azul",
+        "points": 17,
+        "visible": false
+      },
+      {
+        "id": 4,
+        "text": "Rojo",
+        "points": 15,
+        "visible": false
+      },
+      {
+        "id": 5,
+        "text": "Verde",
+        "points": 13,
+        "visible": false
+      }
+    ]
+  },
+  {
+    "id": 32,
+    "used": false,
+    "text": "Color de un abrigo",
+    "answers": [
+      {
+        "id": 1,
+        "text": "Negro",
+        "points": 59,
+        "visible": false
+      },
+      {
+        "id": 2,
+        "text": "Azul",
+        "points": 15,
+        "visible": false
+      },
+      {
+        "id": 3,
+        "text": "Gris",
+        "points": 12,
+        "visible": false
+      },
+      {
+        "id": 4,
+        "text": "Café",
+        "points": 11,
+        "visible": false
+      },
+      {
+        "id": 5,
+        "text": "Rojo",
+        "points": 7,
+        "visible": false
+      }
+    ]
+  },
+  {
+    "id": 33,
+    "used": false,
+    "text": "Tiempo que estás en la sala de espera antes de ver un doctor",
+    "answers": [
+      {
+        "id": 1,
+        "text": "Una hora",
+        "points": 46,
+        "visible": false
+      },
+      {
+        "id": 2,
+        "text": "Media hora",
+        "points": 23,
+        "visible": false
+      },
+      {
+        "id": 3,
+        "text": "Veinte minutos",
+        "points": 16,
+        "visible": false
+      },
+      {
+        "id": 4,
+        "text": "Dos horas",
+        "points": 8,
+        "visible": false
+      },
+      {
+        "id": 5,
+        "text": "Quince minutos",
+        "points": 7,
+        "visible": false
+      }
+    ]
+  },
+  {
+    "id": 34,
+    "used": false,
+    "text": "¿Cuántas pestañas tienes?",
+    "answers": [
+      {
+        "id": 1,
+        "text": "Cincueta",
+        "points": 30,
+        "visible": false
+      },
+      {
+        "id": 2,
+        "text": "Veinte",
+        "points": 24,
+        "visible": false
+      },
+      {
+        "id": 3,
+        "text": "Cien",
+        "points": 20,
+        "visible": false
+      },
+      {
+        "id": 4,
+        "text": "Cuatro",
+        "points": 18,
+        "visible": false
+      },
+      {
+        "id": 5,
+        "text": "Treinta",
+        "points": 8,
+        "visible": false
+      }
+    ]
+  },
+  {
+    "id": 35,
+    "used": false,
+    "text": "cuando eras niño, ¿Cuanto dinero te dejaba el ratón de los dientes?",
+    "answers": [
+      {
+        "id": 1,
+        "text": "10 pesos",
+        "points": 38,
+        "visible": false
+      },
+      {
+        "id": 2,
+        "text": "Nada",
+        "points": 29,
+        "visible": false
+      },
+      {
+        "id": 3,
+        "text": "50 pesos",
+        "points": 18,
+        "visible": false
+      },
+      {
+        "id": 4,
+        "text": "5 pesos",
+        "points": 8,
+        "visible": false
+      },
+      {
+        "id": 5,
+        "text": "25 pesos",
+        "points": 7,
+        "visible": false
+      }
+    ]
+  },
+  {
+    "id": 36,
+    "used": false,
+    "text": "Animal protagonista de las caricaturas",
+    "answers": [
+      {
+        "id": 1,
+        "text": "Conejo",
+        "points": 33,
+        "visible": false
+      },
+      {
+        "id": 2,
+        "text": "Perro",
+        "points": 29,
+        "visible": false
+      },
+      {
+        "id": 3,
+        "text": "Gato",
+        "points": 17,
+        "visible": false
+      },
+      {
+        "id": 4,
+        "text": "Ratón",
+        "points": 15,
+        "visible": false
+      },
+      {
+        "id": 5,
+        "text": "Pato",
+        "points": 6,
+        "visible": false
+      }
+    ]
+  },
+  {
+    "id": 37,
+    "used": false,
+    "text": "Si un boxeador hiciera una venta de garage ¿Que objetos encontrarías?",
+    "answers": [
+      {
+        "id": 1,
+        "text": "Guantes",
+        "points": 73,
+        "visible": false
+      },
+      {
+        "id": 2,
+        "text": "Shorts",
+        "points": 10,
+        "visible": false
+      },
+      {
+        "id": 3,
+        "text": "Cinturones",
+        "points": 7,
+        "visible": false
+      },
+      {
+        "id": 4,
+        "text": "Costal",
+        "points": 6,
+        "visible": false
+      },
+      {
+        "id": 5,
+        "text": "Vendas",
+        "points": 4,
+        "visible": false
+      }
+    ]
+  },
+  {
+    "id": 38,
+    "used": false,
+    "text": "Si no tuvieras que trabajar que harías en tu vida",
+    "answers": [
+      {
+        "id": 1,
+        "text": "Viajar",
+        "points": 50,
+        "visible": false
+      },
+      {
+        "id": 2,
+        "text": "Deporte",
+        "points": 16,
+        "visible": false
+      },
+      {
+        "id": 3,
+        "text": "Ayudar",
+        "points": 15,
+        "visible": false
+      },
+      {
+        "id": 4,
+        "text": "Descansar",
+        "points": 14,
+        "visible": false
+      },
+      {
+        "id": 5,
+        "text": "Pasear",
+        "points": 5,
+        "visible": false
+      }
+    ]
+  },
+  {
+    "id": 39,
+    "used": false,
+    "text": "¿Que ritmo aprendiste a bailar por primera vez?",
+    "answers": [
+      {
+        "id": 1,
+        "text": "Cumbia",
+        "points": 40,
+        "visible": false
+      },
+      {
+        "id": 2,
+        "text": "Salsa",
+        "points": 37,
+        "visible": false
+      },
+      {
+        "id": 3,
+        "text": "Merengue",
+        "points": 15,
+        "visible": false
+      },
+      {
+        "id": 4,
+        "text": "Banda",
+        "points": 5,
+        "visible": false
+      },
+      {
+        "id": 5,
+        "text": "Disco",
+        "points": 3,
+        "visible": false
+      }
+    ]
+  },
+  {
+    "id": 40,
+    "used": false,
+    "text": "¿Cómo te das cuenta que una persona con la que hablas no te pone interés?",
+    "answers": [
+      {
+        "id": 1,
+        "text": "No me mira",
+        "points": 31,
+        "visible": false
+      },
+      {
+        "id": 2,
+        "text": "Me ignora",
+        "points": 22,
+        "visible": false
+      },
+      {
+        "id": 3,
+        "text": "Voltea la cara",
+        "points": 21,
+        "visible": false
+      },
+      {
+        "id": 4,
+        "text": "Me pregunta otra vez",
+        "points": 18,
+        "visible": false
+      },
+      {
+        "id": 5,
+        "text": "Usa teléfono",
+        "points": 8,
+        "visible": false
+      }
+    ]
+  },
+  {
+    "id": 41,
+    "used": false,
+    "text": "Si no tuvieras platos limpios ¿Sobre qué pondrias tu comida?",
+    "answers": [
+      {
+        "id": 1,
+        "text": "Servilletas",
+        "points": 47,
+        "visible": false
+      },
+      {
+        "id": 2,
+        "text": "Mano",
+        "points": 20,
+        "visible": false
+      },
+      {
+        "id": 3,
+        "text": "Mesa",
+        "points": 16,
+        "visible": false
+      },
+      {
+        "id": 4,
+        "text": "Plástico",
+        "points": 9,
+        "visible": false
+      },
+      {
+        "id": 5,
+        "text": "Cazuela",
+        "points": 8,
+        "visible": false
+      }
+    ]
+  },
+  {
+    "id": 42,
+    "used": false,
+    "text": "¿Que tipo de música utilizas mientras limpias tu casa?",
+    "answers": [
+      {
+        "id": 1,
+        "text": "Salsa",
+        "points": 31,
+        "visible": false
+      },
+      {
+        "id": 2,
+        "text": "Regional",
+        "points": 22,
+        "visible": false
+      },
+      {
+        "id": 3,
+        "text": "Romántica",
+        "points": 21,
+        "visible": false
+      },
+      {
+        "id": 4,
+        "text": "Rancheras",
+        "points": 18,
+        "visible": false
+      },
+      {
+        "id": 5,
+        "text": "Bachata",
+        "points": 8,
+        "visible": false
+      }
+    ]
+  },
+  {
+    "id": 43,
+    "used": false,
+    "text": "Si fueras ranchero ¿Qué animal sería el consentido de tu rancho?",
+    "answers": [
+      {
+        "id": 1,
+        "text": "Caballo",
+        "points": 80,
+        "visible": false
+      },
+      {
+        "id": 2,
+        "text": "Perro",
+        "points": 4,
+        "visible": false
+      },
+      {
+        "id": 3,
+        "text": "Gallo",
+        "points": 3,
+        "visible": false
+      },
+      {
+        "id": 4,
+        "text": "León",
+        "points": 2,
+        "visible": false
+      },
+      {
+        "id": 5,
+        "text": "Toro",
+        "points": 1,
+        "visible": false
+      }
+    ]
+  },
+  {
+    "id": 44,
+    "used": false,
+    "text": "¿A qué te gustaría perder el miedo?",
+    "answers": [
+      {
+        "id": 1,
+        "text": "Alturas",
+        "points": 52,
+        "visible": false
+      },
+      {
+        "id": 2,
+        "text": "Víbora",
+        "points": 23,
+        "visible": false
+      },
+      {
+        "id": 3,
+        "text": "Soledad",
+        "points": 12,
+        "visible": false
+      },
+      {
+        "id": 4,
+        "text": "Muerte",
+        "points": 8,
+        "visible": false
+      },
+      {
+        "id": 5,
+        "text": "Ratones",
+        "points": 5,
+        "visible": false
+      }
+    ]
+  },
+  {
+    "id": 45,
+    "used": false,
+    "text": "Si fueras caminando con un amigo y el se cayera, ¿Qué harías?",
+    "answers": [
+      {
+        "id": 1,
+        "text": "Levantarlo",
+        "points": 52,
+        "visible": false
+      },
+      {
+        "id": 2,
+        "text": "Ayudar",
+        "points": 27,
+        "visible": false
+      },
+      {
+        "id": 3,
+        "text": "Me rio",
+        "points": 12,
+        "visible": false
+      },
+      {
+        "id": 4,
+        "text": "Dejarlo",
+        "points": 8,
+        "visible": false
+      },
+      {
+        "id": 5,
+        "text": "Corro",
+        "points": 1,
+        "visible": false
+      }
+    ]
+  },
+  {
+    "id": 46,
+    "used": false,
+    "text": "Si tus zapatos hablarán ¿Qué te dirían?",
+    "answers": [
+      {
+        "id": 1,
+        "text": "Quiero descansar",
+        "points": 38,
+        "visible": false
+      },
+      {
+        "id": 2,
+        "text": "Compra otros",
+        "points": 25,
+        "visible": false
+      },
+      {
+        "id": 3,
+        "text": "Lávame",
+        "points": 22,
+        "visible": false
+      },
+      {
+        "id": 4,
+        "text": "Camina",
+        "points": 9,
+        "visible": false
+      },
+      {
+        "id": 5,
+        "text": "Pesas",
+        "points": 6,
+        "visible": false
+      }
+    ]
+  },
+  {
+    "id": 47,
+    "used": false,
+    "text": "Si una bruja se descuida mientras vuela ¿Contra qué puede chocar?",
+    "answers": [
+      {
+        "id": 1,
+        "text": "Árbol",
+        "points": 40,
+        "visible": false
+      },
+      {
+        "id": 2,
+        "text": "Pared",
+        "points": 19,
+        "visible": false
+      },
+      {
+        "id": 3,
+        "text": "Poste",
+        "points": 16,
+        "visible": false
+      },
+      {
+        "id": 4,
+        "text": "Avión",
+        "points": 14,
+        "visible": false
+      },
+      {
+        "id": 5,
+        "text": "Edificio",
+        "points": 11,
+        "visible": false
+      }
+    ]
+  },
+  {
+    "id": 48,
+    "used": false,
+    "text": "Algo que caracteriza un bombero",
+    "answers": [
+      {
+        "id": 1,
+        "text": "Uniforme",
+        "points": 40,
+        "visible": false
+      },
+      {
+        "id": 2,
+        "text": "Casco",
+        "points": 32,
+        "visible": false
+      },
+      {
+        "id": 3,
+        "text": "Manguera",
+        "points": 13,
+        "visible": false
+      },
+      {
+        "id": 4,
+        "text": "Fuego",
+        "points": 10,
+        "visible": false
+      },
+      {
+        "id": 5,
+        "text": "Valor",
+        "points": 5,
+        "visible": false
+      }
+    ]
+  },
+  {
+    "id": 49,
+    "used": false,
+    "text": "Otra forma de decir sí",
+    "answers": [
+      {
+        "id": 1,
+        "text": "Claro",
+        "points": 35,
+        "visible": false
+      },
+      {
+        "id": 2,
+        "text": "Yes",
+        "points": 25,
+        "visible": false
+      },
+      {
+        "id": 3,
+        "text": "OK",
+        "points": 18,
+        "visible": false
+      },
+      {
+        "id": 4,
+        "text": "Simón",
+        "points": 14,
+        "visible": false
+      },
+      {
+        "id": 5,
+        "text": "Ajá",
+        "points": 8,
+        "visible": false
+      }
+    ]
+  },
+  {
+    "id": 50,
+    "used": false,
+    "text": "Sabor de una malteada",
+    "answers": [
+      {
+        "id": 1,
+        "text": "Fresa",
+        "points": 49,
+        "visible": false
+      },
+      {
+        "id": 2,
+        "text": "Chocolate",
+        "points": 22,
+        "visible": false
+      },
+      {
+        "id": 3,
+        "text": "Vainilla",
+        "points": 21,
+        "visible": false
+      },
+      {
+        "id": 4,
+        "text": "Plátano",
+        "points": 6,
+        "visible": false
+      },
+      {
+        "id": 5,
+        "text": "Café",
+        "points": 2,
+        "visible": false
+      }
+    ]
+  },
+  {
+    "id": 51,
+    "used": false,
+    "text": "Bebida que tomas en la playa",
+    "answers": [
+      {
+        "id": 1,
+        "text": "Cerveza",
+        "points": 49,
+        "visible": false
+      },
+      {
+        "id": 2,
+        "text": "Piña colada",
+        "points": 19,
+        "visible": false
+      },
+      {
+        "id": 3,
+        "text": "Agua",
+        "points": 15,
+        "visible": false
+      },
+      {
+        "id": 4,
+        "text": "Agua de coco",
+        "points": 14,
+        "visible": false
+      },
+      {
+        "id": 5,
+        "text": "Soda",
+        "points": 12,
+        "visible": false
+      }
     ]
   }
 ]

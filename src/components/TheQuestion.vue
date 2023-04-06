@@ -5,10 +5,11 @@ import {watch, ref} from "vue";
 
 let gameStore = useGameStore();
 gameStore.loadState();
-let question = ref({});
+let question = ref(gameStore.activeQuestion);
+console.log(gameStore.activeQuestion);
 window.addEventListener("storage", () => {
     console.log(localStorage.getItem('activeQuestion'));
-    question.value = JSON.parse(localStorage.getItem('activeQuestion'));
+    question.value = JSON.parse(localStorage.getItem('activeQuestion') || '{}');
     // When local storage changes, dump the list to
     // the console.
     //console.log(JSON.parse(window.localStorage.getItem("sampleList")));
@@ -35,6 +36,8 @@ window.addEventListener("storage", () => {
         <div class="panel-answers" >
             <AnswerItem v-for="answer in question.answers"
                         :key="answer.id"
+                        :id="answer.id"
+                        :visible="answer.visible"
                         :text="answer.text"
                         :points="answer.points"/>
         </div>
@@ -49,5 +52,9 @@ window.addEventListener("storage", () => {
     background: #5e85a7;
     border: 5px solid #dfdf6d;
     padding: 20px;
+    min-width: 60vh;
+}
+h1 {
+  font-size: 2.5rem;
 }
 </style>

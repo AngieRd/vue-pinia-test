@@ -20,5 +20,6 @@ defineProps({
     text-align: center;
     font-family: monospace;
     color: #7fff00;
+    font-size: 2rem;
 }
 </style>

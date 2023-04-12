@@ -104,19 +104,19 @@
         "visible": false
       },
       {
-        "id": 1,
+        "id": 2,
         "text": "Trapearlo",
         "points": 37,
         "visible": false
       },
       {
-        "id": 1,
+        "id": 3,
         "text": "Encerarlo",
         "points": 15,
         "visible": false
       },
       {
-        "id": 1,
+        "id": 4,
         "text": "Barrerlo",
         "points": 8,
         "visible": false
@@ -272,7 +272,7 @@
       },
       {
         "id": 4,
-        "text": "Quezadillas",
+        "text": "Quesadillas",
         "points": 9,
         "visible": false
       }
@@ -343,7 +343,7 @@
   {
     "id": 12,
     "used": false,
-    "text": ", Platillo típico para la cena de navidad",
+    "text": "Platillo típico para la cena de navidad",
     "answers": [
       {
         "id": 1,
@@ -374,7 +374,7 @@
   {
     "id": 13,
     "used": false,
-    "text": "¿Cuantos quilates puede tener una cadena de oro?",
+    "text": "¿Cuantos kilates puede tener una cadena de oro?",
     "answers": [
       {
         "id": 1,
@@ -665,7 +665,7 @@
   {
     "id": 22,
     "used": false,
-    "text": "Algo que carazteriza a un militar",
+    "text": "Algo que caracteriza a un militar",
     "answers": [
       {
         "id": 1,

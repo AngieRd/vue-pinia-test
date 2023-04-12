@@ -1,31 +1,19 @@
 <script setup lang="ts">
 import ScoreItem from "@/components/ScoreItem.vue";
-import {reactive} from "vue";
 
-let props = defineProps({
+defineProps({
     team: { type: Object, default: {}}
 });
-let teamRef = reactive(props.team);
-window.addEventListener("storage", () => {
-    let teams = JSON.parse(localStorage.getItem('teams') || '{}');
-    teams.forEach((team: any) => {
-        if(team.id === props.team.id) {
-            console.log(teamRef)
-            teamRef.strikes = team.strikes;
-            teamRef.score = team.score;
-        }
-    });
-    console.log(localStorage.getItem('teams'));
-});
+
 </script>
 
 <template>
     <div class="team">
         <h1 v-text="team.name"/>
-        <ScoreItem :score="teamRef.score"/>
-        <div style="margin-top: 20px">
+        <ScoreItem :score="team.score"/>
+        <div style="margin-top: 20px" v-if="team.strikes > 0">
             <h2>Strikes</h2>
-            <span class="strike" v-for="n in teamRef.strikes">X</span>
+            <span class="strike" v-for="n in team.strikes">X</span>
         </div>
     </div>
 </template>

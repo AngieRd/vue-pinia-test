@@ -13,13 +13,13 @@ defineProps({
 <style scoped>
 .score {
     background: #000;
-    border: 3px dashed #7fff00;
+    border: 3px dashed #fff900;
 }
 
 .score_points {
     text-align: center;
     font-family: monospace;
-    color: #7fff00;
+    color: #fff900;
     font-size: 2rem;
 }
 </style>
